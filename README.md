@@ -6,7 +6,7 @@ The workflow includes data cleaning, sex-stratified preprocessing, multicollinea
 
 ## Repository Contents
 
-- `Shahinfar.github.codes-Copy1.ipynb`  
+- `metabolic_syndrome_classification.ipynb`  
   Main Jupyter Notebook containing the full analysis pipeline.
 
 ## Study Outcome
